@@ -1,1 +1,1 @@
-Markdown==2.6.15
+Markdown==2.6.14
